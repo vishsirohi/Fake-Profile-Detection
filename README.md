@@ -1,6 +1,7 @@
 # Fake / Bot Twitter Profile Detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/Fake_Profile_Detection_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vishsirohi/Fake-Profile-Detection
+/blob/main/Fake_Profile_Detection_Colab.ipynb)
 
 An end-to-end machine learning project that detects fake/bot Twitter accounts using both **account metadata** (behavioral features) and **tweet text** (NLP), combining classical ML, deep learning, and model explainability — all in a single, self-contained Colab notebook.
 
